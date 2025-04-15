@@ -31,7 +31,7 @@ Entrez une commandes (+ Ajouter une Tâche, -: Terminer une Tâche, s: Supprimer
 ------------------  
 0 : Faire les courses - Fait  
 1 : Faire le ménage - En cours  
-Entrez une commandes (+ Ajouter une Tâche, -: Terminer une Tâche, s: Supprimer une Tâche, a: Afficher les tâches, q: Quitter)  
+Entrez une commandes (+ Ajouter une Tâche, -: Terminer une Tâche, s: Supprimer une Tâche, a: Afficher les tâches, q: Quitter)   
 
 ## 🧠 Pourquoi ce projet ?
 
