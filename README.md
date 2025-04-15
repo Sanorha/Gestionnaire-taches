@@ -15,7 +15,10 @@ Ce projet est un gestionnaire de tâches développé en Python. Il permet à un 
 - **Supprimer une tâche** : Supprime une tâche de la liste.
 - **Afficher les tâches** : Affiche toutes les tâches avec leur statut (terminée ou non).
 
-## ▶️ Exemple d'utilisation  
+## ▶️ Exemple d'utilisation
+
+fghdh
+
 ## 🧠 Pourquoi ce projet ?
 
 Ce projet est un **exercice d'apprentissage** en programmation orientée objet (POO) avec Python. Il m'a permis de mieux comprendre les concepts de base de la POO, comme les classes, les méthodes, et la gestion des attributs d'objets. Ce projet me permet aussi de structurer mes idées et de renforcer mes compétences en développement.
