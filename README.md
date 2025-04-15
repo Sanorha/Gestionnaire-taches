@@ -15,23 +15,9 @@ Ce projet est un gestionnaire de tâches développé en Python. Il permet à un 
 - **Supprimer une tâche** : Supprime une tâche de la liste.
 - **Afficher les tâches** : Affiche toutes les tâches avec leur statut (terminée ou non).
 
-## ▶️ Exemple d'utilisation
+## ▶️ Exemple d'utilisation  
 
-Entrez une commandes (+ Ajouter une Tâche, -: Terminer une Tâche, s: Supprimer une Tâche, a: Afficher les tâches, q: Quitter) +  
-Entrez le nom: Faire les courses  
-Entrez une commandes (+ Ajouter une Tâche, -: Terminer une Tâche, s: Supprimer une Tâche, a: Afficher les tâches, q: Quitter) +  
-Entrez le nom: Faire le ménage  
-Entrez une commandes (+ Ajouter une Tâche, -: Terminer une Tâche, s: Supprimer une Tâche, a: Afficher les tâches, q: Quitter) a  
-------------------  
-0 : Faire les courses - En cours  
-1 : Faire le ménage - En cours  
-Entrez une commandes (+ Ajouter une Tâche, -: Terminer une Tâche, s: Supprimer une Tâche, a: Afficher les tâches, q: Quitter) -  
-Entrez l'id de la tâche: 0  
-Entrez une commandes (+ Ajouter une Tâche, -: Terminer une Tâche, s: Supprimer une Tâche, a: Afficher les tâches, q: Quitter) a  
-------------------  
-0 : Faire les courses - Fait  
-1 : Faire le ménage - En cours  
-Entrez une commandes (+ Ajouter une Tâche, -: Terminer une Tâche, s: Supprimer une Tâche, a: Afficher les tâches, q: Quitter)   
+
 
 ## 🧠 Pourquoi ce projet ?
 
