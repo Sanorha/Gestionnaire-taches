@@ -16,24 +16,6 @@ Ce projet est un gestionnaire de tâches développé en Python. Il permet à un 
 - **Afficher les tâches** : Affiche toutes les tâches avec leur statut (terminée ou non).
 
 ## ▶️ Exemple d'utilisation  
-
-
-Entrez une commandes (+ Ajouter une Tâche, -: Terminer une Tâche, s: Supprimer une Tâche, a: Afficher les tâches, q: Quitter) +  
-Entrez le nom: Faire les courses  
-Entrez une commandes (+ Ajouter une Tâche, -: Terminer une Tâche, s: Supprimer une Tâche, a: Afficher les tâches, q: Quitter) +  
-Entrez le nom: Faire le ménage  
-Entrez une commandes (+ Ajouter une Tâche, -: Terminer une Tâche, s: Supprimer une Tâche, a: Afficher les tâches, q: Quitter) a  
-------------------  
-0 : Faire les courses - En cours  
-1 : Faire le ménage - En cours  
-Entrez une commandes (+ Ajouter une Tâche, -: Terminer une Tâche, s: Supprimer une Tâche, a: Afficher les tâches, q: Quitter) -  
-Entrez l'id de la tâche: 0  
-Entrez une commandes (+ Ajouter une Tâche, -: Terminer une Tâche, s: Supprimer une Tâche, a: Afficher les tâches, q: Quitter) a  
-------------------  
-0 : Faire les courses - Fait  
-1 : Faire le ménage - En cours  
-Entrez une commandes (+ Ajouter une Tâche, -: Terminer une Tâche, s: Supprimer une Tâche, a: Afficher les tâches, q: Quitter)  
-
 ## 🧠 Pourquoi ce projet ?
 
 Ce projet est un **exercice d'apprentissage** en programmation orientée objet (POO) avec Python. Il m'a permis de mieux comprendre les concepts de base de la POO, comme les classes, les méthodes, et la gestion des attributs d'objets. Ce projet me permet aussi de structurer mes idées et de renforcer mes compétences en développement.
