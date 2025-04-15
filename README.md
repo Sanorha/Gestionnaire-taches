@@ -17,6 +17,7 @@ Ce projet est un gestionnaire de tâches développé en Python. Il permet à un 
 
 ## ▶️ Exemple d'utilisation
 
+$ python gestionnaire_taches.py
 Entrez une commandes (+ Ajouter une Tâche, -: Terminer une Tâche, s: Supprimer une Tâche, a: Afficher les tâches, q: Quitter) +  
 Entrez le nom: Faire les courses  
 Entrez une commandes (+ Ajouter une Tâche, -: Terminer une Tâche, s: Supprimer une Tâche, a: Afficher les tâches, q: Quitter) +  
